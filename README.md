@@ -1,9 +1,8 @@
 # IMX Wallet Dashboard
 
-<br />
+Dashboard related to IMX, an Ethereum Layer 2 solution for NFTs. 
+Link to IMX is the site itself. The main dashboard will re-direct users there.
 
-Dashboard related to IMX, an Ethereum Layer 2 solution for NFTs
+### `Link to Site`
 
-<br />
-
-More to be added later..
+**[IMX](https://www.immutable.com/developers)**

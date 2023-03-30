@@ -1,3 +1,0 @@
-# Adding environment variables file as well as node_modules directory to prevent commit
-node_modules
-.env
